@@ -76,7 +76,13 @@ The difference between algorithms becomes more noticeable as the input size incr
 
 ## Screenshots
 
-Screenshots of the program output are included in the repository.
+1.png
+2.png
+3.png
+4.png
+5.png
+6.png
+7.png
 
 ---
 
